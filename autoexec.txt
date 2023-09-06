@@ -1,0 +1,27 @@
+# KEYBOARD LAYOUT
+
+# 0: UK
+# 1: US
+# 2: German
+# 3: Italian
+# 4: Spanish
+# 5: French
+# 6: Belgian
+# 7: Norwegian
+# 8: Japanese
+
+SET KEYBOARD 0
+
+# VIDEO MODE
+
+# 0: 1024 x 768 @ 60Hz, 2 colours per pixel
+# 1: 512 x 384 @ 60Hz, 16 colours per pixel
+# 2: 320 x 200 @ 75Hz, 64 colours per pixel
+# 3: 640 x 480 @ 60Hz, 16 colours per pixel
+
+VDU 22 	3
+
+# TurBoLoader
+bbcbasic LOADER.BAS
+
+
